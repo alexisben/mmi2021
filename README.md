@@ -15,6 +15,8 @@ https://codepen.io/
 
 http://caniuse.com
 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 
 ### Créa:
 
