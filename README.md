@@ -17,6 +17,9 @@ http://caniuse.com
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+#### RESET CSS
+
+https://gist.github.com/terkel/1360380
 
 ### Créa:
 
